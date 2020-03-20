@@ -7,6 +7,7 @@
  /*
  Tasks:
 
+https://algs4.cs.princeton.edu/10fundamentals/
 
 1)Design efficient data structure for union-find:
     ・ Количество объектов N может быть огромным.
